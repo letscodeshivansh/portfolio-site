@@ -21,7 +21,7 @@ body{
   font-family: 'Lexend', sans-serif;
   font-size:16px;
   line-height:24px; 
-  background-color:#202020;
+  background-color:#000000;
 }
 .container{
   width: 1170px;
@@ -44,7 +44,7 @@ body{
   left: 0;
   width: 100%;
   z-index: 99;
-  background-color: #202020;
+  background-color: #000000;
   padding: 5px;
 }
 
@@ -170,7 +170,7 @@ profile-photo .img{
 
 .about-area{
   padding-top: 130px;
-  background-color: #202020;
+  background-color: #000000;
 }
 .about{
   display: flex;

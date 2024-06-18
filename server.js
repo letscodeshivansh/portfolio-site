@@ -1,3 +1,4 @@
+require("dotenv").config();
 const http = require("http");
 const express = require("express");
 const bodyParser = require("body-parser");
@@ -6,6 +7,7 @@ const mongoose = require('mongoose');
 const { Message } = require('./mongodb');
 
 const app = express();
+
 
 // Middleware for parsing form data
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -45,6 +47,10 @@ app.post('/submit', (req, res) => {
 
 // Create and start the server
 const server = http.createServer(app);
-server.listen(3000, () => {
-    console.log("Server is running on port 3000");
+
+const PORT = process.env.PORT || 3000;
+
+
+server.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
 });
