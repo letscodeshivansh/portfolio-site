@@ -347,7 +347,7 @@ profile-photo .img{
   transition: background-color 0.3s ease;
 }
 
-.source-code-btn:hover {
+.source-code-btn.active{
   border-color: #fed700; /* Darker shade of the button color on hover */
 }
 
