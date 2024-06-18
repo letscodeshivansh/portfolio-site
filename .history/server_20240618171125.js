@@ -35,7 +35,7 @@ app.post('/submit', (req, res) => {
 
     newMessage.save()
         .then(() => {
-            res.redirect('index');
+            res.render('index', { thankYouMessage: 'Thank you for your message!' });
         })
         .catch((error) => {
             console.error("Error saving message:", error);

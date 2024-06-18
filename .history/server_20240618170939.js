@@ -19,6 +19,10 @@ app.use(express.static(__dirname + '/files'));
 
 // Route to render the contact form
 app.get('/', (req, res) => {
+    res.render('index', { thankYouMessage: null });
+});
+
+app.get('/script', (req, res) => {
     res.render('index');
 });
 
@@ -35,12 +39,18 @@ app.post('/submit', (req, res) => {
 
     newMessage.save()
         .then(() => {
-            res.redirect('index');
+            // Redirect to avoid resubmission on page refresh
+            res.redirect('/thank-you');
         })
         .catch((error) => {
             console.error("Error saving message:", error);
             res.status(500).send('Error saving your message. Please try again later.');
         });
+});
+
+// Route to render thank you message
+app.get('/thank-you', (req, res) => {
+    res.render('index', { thankYouMessage: 'Thank you for your message!' });
 });
 
 // Create and start the server

@@ -330,6 +330,7 @@ profile-photo .img{
 }
 
 .button-box {
+  height: 10px;
   position: absolute;
   bottom: 10px; /* Adjust the distance from the bottom as needed */
   left: 50%;
@@ -338,7 +339,7 @@ profile-photo .img{
 
 .source-code-btn {
   display: inline-block;
-  padding: 3px 6px; /* Adjust padding to reduce button size */
+  padding: 10px 20px;
   background-color: #444444; /* Example background color */
   color: white;
   text-decoration: none;
@@ -348,7 +349,7 @@ profile-photo .img{
 }
 
 .source-code-btn:hover {
-  background-color: #fed700; /* Darker shade of the button color on hover */
+  border-color: #fed700; /* Darker shade of the button color on hover */
 }
 
 .project-content{

@@ -322,35 +322,6 @@ profile-photo .img{
 
 
 /*---------------------------Projects---------------------------*/
-
-.project {
-  /* Your existing project styling */
-  margin-bottom: 20px; /* Example margin for spacing between projects */
-  position: relative; /* Ensure relative positioning for absolute positioning inside */
-}
-
-.button-box {
-  position: absolute;
-  bottom: 10px; /* Adjust the distance from the bottom as needed */
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-.source-code-btn {
-  display: inline-block;
-  padding: 3px 6px; /* Adjust padding to reduce button size */
-  background-color: #444444; /* Example background color */
-  color: white;
-  text-decoration: none;
-  border-radius: 5px;
-  text-align: center;
-  transition: background-color 0.3s ease;
-}
-
-.source-code-btn:hover {
-  background-color: #fed700; /* Darker shade of the button color on hover */
-}
-
 .project-content{
   padding: 90px 0;
   /* color:#fff;  */
@@ -458,8 +429,6 @@ profile-photo .img{
 
 
 
-
-
 /*---------------------------Footer---------------------------*/
 .footer {
     max-width: 950px;
@@ -482,8 +451,6 @@ profile-photo .img{
     font-size: 12px;
   }
 
-
-  
 
 
 

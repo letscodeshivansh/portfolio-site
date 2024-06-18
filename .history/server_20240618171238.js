@@ -35,7 +35,7 @@ app.post('/submit', (req, res) => {
 
     newMessage.save()
         .then(() => {
-            res.redirect('index');
+            res.redirect('/index');
         })
         .catch((error) => {
             console.error("Error saving message:", error);
