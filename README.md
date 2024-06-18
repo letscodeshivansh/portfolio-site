@@ -53,8 +53,9 @@ This Portfolio Website is licensed under the MIT License. See the LICENSE file f
 
 ## Screenshots 💻
 
-![Screenshot 2024-06-18 174004](https://github.com/letscodeshivansh/portfolio-site/assets/125864444/44aeba72-227d-41f7-880f-96777388af29)
-![Screenshot 2024-06-18 174052](https://github.com/letscodeshivansh/portfolio-site/assets/125864444/342b585c-ada9-4577-abee-51339ae8c151)
-![Screenshot 2024-06-18 174116](https://github.com/letscodeshivansh/portfolio-site/assets/125864444/8302ec6d-c74e-4f1c-9b77-c62b23122583)
-![Screenshot 2024-06-18 174140](https://github.com/letscodeshivansh/portfolio-site/assets/125864444/c7223461-1f16-42fd-b527-7722ca58efa0)
-![Screenshot 2024-06-18 174159](https://github.com/letscodeshivansh/portfolio-site/assets/125864444/4c453937-be56-4f80-97ab-1445b1b64179)
+![Screenshot 2024-06-18 180415](https://github.com/letscodeshivansh/portfolio-site/assets/125864444/5fb12f5d-0417-4a98-a932-989ae27f51f9)
+![Screenshot 2024-06-18 180430](https://github.com/letscodeshivansh/portfolio-site/assets/125864444/b6f7f628-869d-4cfd-8da9-9a5737afe1ae)
+![Screenshot 2024-06-18 180443](https://github.com/letscodeshivansh/portfolio-site/assets/125864444/28372746-c416-4226-8dd9-92a45736b964)
+![Screenshot 2024-06-18 180455](https://github.com/letscodeshivansh/portfolio-site/assets/125864444/b2a1bc6e-2769-47a5-bf97-4557cf797e7a)
+![Screenshot 2024-06-18 180505](https://github.com/letscodeshivansh/portfolio-site/assets/125864444/f5387016-f881-43a6-8f40-5361d442c70f)
+
