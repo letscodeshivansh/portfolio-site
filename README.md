@@ -10,6 +10,8 @@ Welcome to my portfolio website! This site showcases my journey as a passionate 
 ![Screenshot 2024-06-18 180455](https://github.com/letscodeshivansh/portfolio-site/assets/125864444/b2a1bc6e-2769-47a5-bf97-4557cf797e7a)
 ![Screenshot 2024-06-18 180505](https://github.com/letscodeshivansh/portfolio-site/assets/125864444/f5387016-f881-43a6-8f40-5361d442c70f)
 
+![logo__1_-removebg-preview](https://github.com/letscodeshivansh/portfolio-site/assets/125864444/ba66b0ac-0337-4009-b1b0-e3d289d1854b)
+
 ## Key Features 👇
 
 ### About Me
